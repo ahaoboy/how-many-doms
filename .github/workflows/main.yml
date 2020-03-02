@@ -8,7 +8,7 @@ on: [push]
 
 jobs:
   build:
-    #    runs-on: ubuntu-latest
+        runs-on: ubuntu-latest
     container:
       image: ubuntu:ubuntu-latest
     steps:
