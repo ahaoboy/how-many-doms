@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "npx ncc build src/index.js -o dist",
+    "start": "node src/index.js",
+    "build:p": "npx parcel build src/index.js  --target node --bundle-node-modules"
+  },
+  "devDependencies": {
+    "fs-extra": "^8.1.0",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
