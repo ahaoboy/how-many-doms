@@ -21,12 +21,12 @@ jobs:
       #          sudo npm   start
       - name: Commit files
         run: |
-          sudo -i
+#          sudo -i
           chmod 777 geckodriver
           whoami
-          exit
+#          exit
 
-          echo exit
+#          echo exit
           whoami
           npm install
           npm   start
