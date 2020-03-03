@@ -7,6 +7,7 @@ const URL_LIST = [
   "https://www.google.com/search?q=hello",
   "https://github.com/",
   "https://pwa.clicli.me/",
+  "https://www.youtube.com/"
 ]
 
 module.exports = URL_LIST

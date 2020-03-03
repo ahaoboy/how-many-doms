@@ -36,6 +36,10 @@ async function updateMd({time, data}) {
     console.log(k, v)
   }
 
+  rows.sort(
+    (a, b) => b[1] - a[1]
+  )
+
   let table = rows
     .map(line => line.join(' | '))
     .join('\n')

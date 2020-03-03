@@ -1,3 +1,4 @@
-let s = '1,2,3'
-s.replace('1','w')
-console.log(s)
+let a = [3, 1, 2]
+console.log(a.sort(
+  (a, b) => a - b
+))
