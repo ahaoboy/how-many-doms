@@ -10,8 +10,13 @@ async function start() {
 async function updateData() {
   let data = {}
   for (let url of URL_LIST) {
-    data[url] = await getDomNum(url)
-    console.log(data)
+    try {
+      data[url] = await getDomNum(url)
+      console.log(data)
+    } catch (e) {
+      console.log('e===>', e)
+    }
+
   }
 
   let time = +new Date()

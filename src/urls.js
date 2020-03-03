@@ -4,7 +4,9 @@ const URL_LIST = [
   "https://cn.bing.com/search?q=hello",
   "https://www.bilibili.com/",
   "https://www.csdn.net/",
-  "https://www.google.com/search?q=hello"
+  "https://www.google.com/search?q=hello",
+  "https://github.com/",
+  "https://pwa.clicli.me/",
 ]
 
 module.exports = URL_LIST
