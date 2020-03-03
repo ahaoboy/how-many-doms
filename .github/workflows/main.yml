@@ -21,10 +21,10 @@ jobs:
       #          sudo npm   start
       - name: Commit files
         run: |
-          sudo -s
+          sudo -i
           chmod 777 geckodriver
           whoami
-          exit
+          logout
 
           echo exit
           whoami
