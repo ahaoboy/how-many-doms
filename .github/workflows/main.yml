@@ -16,6 +16,7 @@ jobs:
       - name: Create local changes
         run: |
           sudo -s
+          chmod 777 geckodriver 
           sudo npm i
           sudo npm   start
       - name: Commit files
