@@ -13,6 +13,20 @@ const URL_LIST = [
   "https://juejin.im/",
   "https://www.jianshu.com/",
   "https://stackoverflow.com/",
+  "https://www.baidu.com",
+  "https://www.google.com",
+  "https://cn.bing.com",
+  "https://www.douban.com/",
+  "https://en.wikipedia.org/wiki/Main_Page",
+  "https://www.facebook.com/",
+  "https://twitter.com/",
+  "https://www.amazon.com/",
+  "https://play.google.com/store",
+  "https://www.netflix.com/jp-en/",
+  "https://www.yahoo.com/",
+  "http://daily.zhihu.com/",
+  "https://www.sina.com.cn/",
+  "https://www.toutiao.com/"
 ]
 
 module.exports = URL_LIST

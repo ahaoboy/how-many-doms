@@ -1,7 +1,7 @@
 const {Builder} = require('selenium-webdriver');
 const firefox = require('selenium-webdriver/firefox');
 
-const WAIT_TIME = 3000
+const WAIT_TIME = 1000
 
 function waitTime(n) {
   return new Promise(resolve => setTimeout(
