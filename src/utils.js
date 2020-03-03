@@ -34,7 +34,7 @@ async function getDomNum(url) {
     console.log('==>', e)
     return -1
   } finally {
-    // await driver.quit();
+    await driver.quit();
   }
 }
 
