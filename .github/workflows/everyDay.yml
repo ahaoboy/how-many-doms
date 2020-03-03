@@ -1,9 +1,11 @@
-name: everyPush
-on: [push]
-# on:
-#   schedule:
-# * is a special character in YAML so you have to quote this string
-#     - cron:  '*/15 * * * *'
+name: everyDay
+
+#on: [push]
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    # 每天中午十二点
+    - cron: "0 5 11 * * ?"
 
 jobs:
   build:
