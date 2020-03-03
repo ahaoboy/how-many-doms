@@ -7,7 +7,12 @@ const URL_LIST = [
   "https://www.google.com/search?q=hello",
   "https://github.com/",
   "https://pwa.clicli.me/",
-  "https://www.youtube.com/"
+  "https://www.youtube.com/",
+  "https://segmentfault.com/",
+  "https://www.cnblogs.com/",
+  "https://juejin.im/",
+  "https://www.jianshu.com/",
+  "https://stackoverflow.com/",
 ]
 
 module.exports = URL_LIST

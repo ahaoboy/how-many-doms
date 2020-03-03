@@ -1,5 +1,7 @@
-const {Builder, By, Key, until} = require('selenium-webdriver');
+const {Builder} = require('selenium-webdriver');
 const firefox = require('selenium-webdriver/firefox');
+
+const WAIT_TIME = 3000
 
 function waitTime(n) {
   return new Promise(resolve => setTimeout(
@@ -28,7 +30,7 @@ async function getDomNum(url) {
     .build(options);
   try {
     await driver.get(url);
-    await waitTime(5000)
+    await waitTime(WAIT_TIME)
     return await driver.executeScript(script)
   } catch (e) {
     console.log('==>', e)
