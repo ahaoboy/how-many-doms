@@ -5,7 +5,7 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # 每天中午十二点
-    - cron: "0 5 11 * * ?"
+    - cron: "15 11 * * *"
 
 jobs:
   build:
