@@ -4,8 +4,7 @@ const fse = require('fs-extra')
 const path = require('path')
 
 async function start() {
-  let data = await updateData()
-  await updateMd(data)
+  await updateMd(await updateData())
 }
 
 async function updateData() {
@@ -15,13 +14,13 @@ async function updateData() {
     console.log(data)
   }
 
-  let now = +new Date()
-  let p = path.join(__dirname, '../', 'data', `${now}.json`)
+  let time = +new Date()
+  let p = path.join(__dirname, '../', 'data', `${time}.json`)
   fse.outputJsonSync(p, data)
-  return data
+  return {time, data}
 }
 
-async function updateMd(data) {
+async function updateMd({time, data}) {
   let rows = [
     ['url', 'dom nums'],
     [':-:', ':-:']
@@ -36,11 +35,12 @@ async function updateMd(data) {
     .map(line => line.join(' | '))
     .join('\n')
 
-  let p = path.join(__dirname, '../', 'README.md')
+  let p = path.join(__dirname, '../', 'README-TEMPLATE.md')
   let str = fse.readFileSync(p, 'utf8')
   str = str.replace(/\{\{TABLE\}\}/g, table)
-  console.log(str)
-  fse.writeFileSync(p, str)
+    .replace(/\{\{TIME\}\}/g, new Date(time).toLocaleString())
+  let out = path.join(__dirname, '../', 'README.md')
+  fse.writeFileSync(out, str)
 }
 
 
