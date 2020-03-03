@@ -30,9 +30,10 @@ async function getDomNum(url) {
     .build(options);
   try {
     await driver.get(url);
-    let step = 200
-    for (let i = 0; i < 100; i++) {
+    let step = 400
+    for (let i = 0; i < 50; i++) {
       await driver.executeScript(`window.scrollBy(0,${step})`)
+      await waitTime(50)
     }
     await waitTime(WAIT_TIME)
     return await driver.executeScript(script)
