@@ -27,7 +27,7 @@ jobs:
 
           sudo -s
 
-          sudo   npm install -g markdown-pdf
+          sudo   npm install -g markdown-pdf --unsafe-perm
           sudo markdown-pdf README.md
 
           whoami
