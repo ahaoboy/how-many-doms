@@ -26,6 +26,10 @@ jobs:
           npm   start
 
           sudo -s
+
+          sudo   npm install -g markdown-pdf
+          sudo markdown-pdf README.md
+
           whoami
           sudo git config --local user.email "504595380@qq.com"
           sudo git config --local user.name "ahaoboy"
