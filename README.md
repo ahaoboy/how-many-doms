@@ -1,33 +1,33 @@
 # how-many-doms
 
-# update 3/27/2020, 4:09:28 AM
+# update 3/28/2020, 4:09:07 AM
 
 url | dom nums
 :-: | :-:
-https://www.youtube.com/ | 15722
-https://play.google.com/store | 10631
-https://www.bilibili.com/ | 9091
-https://www.yahoo.com/ | 7357
-https://www.sina.com.cn/ | 4905
-https://www.csdn.net/ | 3721
-https://segmentfault.com/ | 2463
-https://juejin.im/ | 2382
-https://www.google.com/search?q=hello | 1903
-https://www.oschina.net/ | 1475
-https://www.douban.com/ | 1302
-https://www.amazon.com/ | 1296
-https://www.cnblogs.com/ | 1276
-https://en.wikipedia.org/wiki/Main_Page | 1037
-https://www.baidu.com/s?ie=UTF-8&wd=hello | 1017
+https://www.youtube.com/ | 15770
+https://play.google.com/store | 10620
+https://www.bilibili.com/ | 9167
+https://www.yahoo.com/ | 7727
+https://www.sina.com.cn/ | 4896
+https://www.csdn.net/ | 2961
+https://juejin.im/ | 2687
+https://segmentfault.com/ | 2473
+https://www.google.com/search?q=hello | 1763
+https://www.oschina.net/ | 1461
+https://www.douban.com/ | 1321
+https://www.amazon.com/ | 1307
+https://www.cnblogs.com/ | 1274
+https://www.baidu.com/s?ie=UTF-8&wd=hello | 1015
+https://en.wikipedia.org/wiki/Main_Page | 988
 https://github.com/ | 975
 https://stackoverflow.com/ | 841
-https://cn.bing.com/search?q=hello | 820
-https://twitter.com/ | 732
-https://www.facebook.com/ | 633
+https://cn.bing.com/search?q=hello | 827
+https://twitter.com/ | 701
+https://www.facebook.com/ | 636
 https://www.toutiao.com/ | 601
-https://www.jianshu.com/ | 512
+https://www.jianshu.com/ | 510
 https://www.netflix.com/jp-en/ | 407
-https://pwa.clicli.me/ | 325
+https://pwa.clicli.me/ | 341
 http://daily.zhihu.com/ | 241
 https://cn.bing.com | 206
 https://www.google.com | 199
