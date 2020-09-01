@@ -1,34 +1,34 @@
 # how-many-doms
 
-# update 8/31/2020, 4:17:54 AM
+# update 9/1/2020, 4:10:09 AM
 
 url | dom nums
 :-: | :-:
-https://www.youtube.com/ | 15064
-https://play.google.com/store | 10693
-https://www.bilibili.com/ | 9892
-https://www.yahoo.com/ | 6807
-https://www.sina.com.cn/ | 4740
-https://segmentfault.com/ | 2432
-https://www.amazon.com/ | 1949
-https://juejin.im/ | 1770
-https://www.google.com/search?q=hello | 1742
-https://www.douban.com/ | 1383
-https://www.csdn.net/ | 1373
+https://www.youtube.com/ | 16726
+https://play.google.com/store | 10751
+https://www.bilibili.com/ | 9872
+https://www.yahoo.com/ | 7598
+https://www.sina.com.cn/ | 4700
+https://juejin.im/ | 4018
+https://segmentfault.com/ | 2458
+https://www.amazon.com/ | 1957
+https://www.google.com/search?q=hello | 1919
+https://www.csdn.net/ | 1431
+https://www.douban.com/ | 1303
 https://www.oschina.net/ | 1220
-https://www.baidu.com/s?ie=UTF-8&wd=hello | 1196
-https://en.wikipedia.org/wiki/Main_Page | 1042
+https://www.baidu.com/s?ie=UTF-8&wd=hello | 1191
 https://github.com/ | 1036
-https://www.cnblogs.com/ | 894
-https://cn.bing.com/search?q=hello | 868
+https://en.wikipedia.org/wiki/Main_Page | 1001
+https://www.cnblogs.com/ | 892
 https://stackoverflow.com/ | 843
-https://www.toutiao.com/ | 606
-https://www.jianshu.com/ | 510
-https://www.facebook.com/ | 275
-https://www.netflix.com/jp-en/ | 260
+https://cn.bing.com/search?q=hello | 840
+https://www.jianshu.com/ | 502
+https://www.toutiao.com/ | 445
+https://www.facebook.com/ | 281
+https://www.netflix.com/jp-en/ | 268
 https://www.baidu.com | 251
 http://daily.zhihu.com/ | 241
-https://twitter.com/ | 225
+https://pwa.clicli.me/ | 230
+https://twitter.com/ | 224
 https://cn.bing.com | 212
-https://www.google.com | 172
-https://pwa.clicli.me/ | 137
+https://www.google.com | 209
