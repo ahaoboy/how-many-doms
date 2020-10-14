@@ -1,34 +1,34 @@
 # how-many-doms
 
-# update 10/13/2020, 4:10:02 AM
+# update 10/14/2020, 4:10:52 AM
 
 url | dom nums
 :-: | :-:
-https://www.youtube.com/ | 13799
-https://play.google.com/store | 10839
-https://www.bilibili.com/ | 9955
-https://www.yahoo.com/ | 6384
-https://www.sina.com.cn/ | 4713
-https://juejin.im/ | 4343
-https://www.amazon.com/ | 2628
-https://segmentfault.com/ | 2450
-https://www.google.com/search?q=hello | 1856
-https://www.csdn.net/ | 1839
-https://github.com/ | 1687
+https://www.youtube.com/ | 15916
+https://play.google.com/store | 10785
+https://www.bilibili.com/ | 9213
+https://www.yahoo.com/ | 6971
+https://www.amazon.com/ | 5457
+https://www.sina.com.cn/ | 4701
+https://juejin.im/ | 4320
+https://segmentfault.com/ | 2485
+https://www.google.com/search?q=hello | 1840
+https://www.csdn.net/ | 1808
+https://github.com/ | 1686
 https://www.douban.com/ | 1394
 https://www.oschina.net/ | 1280
-https://www.baidu.com/s?ie=UTF-8&wd=hello | 1177
-https://en.wikipedia.org/wiki/Main_Page | 1021
-https://cn.bing.com/search?q=hello | 1011
-https://www.cnblogs.com/ | 906
+https://www.baidu.com/s?ie=UTF-8&wd=hello | 1168
+https://cn.bing.com/search?q=hello | 1093
+https://en.wikipedia.org/wiki/Main_Page | 1022
+https://www.cnblogs.com/ | 902
 https://stackoverflow.com/ | 843
-https://www.jianshu.com/ | 511
+https://www.jianshu.com/ | 513
 https://www.toutiao.com/ | 347
-https://www.facebook.com/ | 312
+https://www.facebook.com/ | 318
+https://www.baidu.com | 255
 https://www.netflix.com/jp-en/ | 254
-https://www.baidu.com | 253
 http://daily.zhihu.com/ | 241
 https://twitter.com/ | 237
-https://cn.bing.com | 216
-https://www.google.com | 182
-https://pwa.clicli.me/ | 104
+https://cn.bing.com | 212
+https://www.google.com | 185
+https://pwa.clicli.me/ | 137
