@@ -1,34 +1,34 @@
 # how-many-doms
 
-# update 12/16/2020, 4:11:01 AM
+# update 12/17/2020, 4:10:31 AM
 
 url | dom nums
 :-: | :-:
-https://www.youtube.com/ | 17675
-https://play.google.com/store | 11601
-https://www.bilibili.com/ | 10380
-https://www.yahoo.com/ | 6160
-https://www.sina.com.cn/ | 4932
-https://juejin.im/ | 4415
-https://www.csdn.net/ | 3063
-https://www.amazon.com/ | 2964
-https://segmentfault.com/ | 2438
-https://www.oschina.net/ | 1954
-https://www.google.com/search?q=hello | 1778
-https://www.douban.com/ | 1394
-https://cn.bing.com/search?q=hello | 1355
-https://github.com/ | 1331
-https://en.wikipedia.org/wiki/Main_Page | 1236
-https://www.baidu.com/s?ie=UTF-8&wd=hello | 1157
-https://www.cnblogs.com/ | 910
-https://stackoverflow.com/ | 879
-https://www.jianshu.com/ | 496
-https://www.toutiao.com/ | 353
-https://www.facebook.com/ | 297
-https://www.baidu.com | 261
+https://www.youtube.com/ | 18132
+https://play.google.com/store | 11573
+https://www.bilibili.com/ | 10388
+https://www.yahoo.com/ | 5580
+https://www.sina.com.cn/ | 4954
+https://juejin.im/ | 3750
+https://www.csdn.net/ | 3029
+https://www.amazon.com/ | 2900
+https://www.google.com/search?q=hello | 2255
+https://www.oschina.net/ | 1956
+https://segmentfault.com/ | 1819
+https://www.douban.com/ | 1388
+https://github.com/ | 1289
+https://cn.bing.com/search?q=hello | 1265
+https://en.wikipedia.org/wiki/Main_Page | 1238
+https://www.baidu.com/s?ie=UTF-8&wd=hello | 1123
+https://www.cnblogs.com/ | 912
+https://stackoverflow.com/ | 894
+https://www.jianshu.com/ | 487
+https://www.toutiao.com/ | 322
+https://www.facebook.com/ | 307
+https://www.baidu.com | 259
 https://www.netflix.com/jp-en/ | 254
 http://daily.zhihu.com/ | 241
+https://twitter.com/ | 240
+https://www.google.com | 219
 https://cn.bing.com | 216
-https://www.google.com | 215
-https://twitter.com/ | 199
 https://pwa.clicli.me/ | -1
