@@ -1,34 +1,34 @@
 # how-many-doms
 
-# update 4/28/2021, 4:13:47 AM
+# update 4/29/2021, 4:09:39 AM
 
 url | dom nums
 :-: | :-:
-https://www.youtube.com/ | 21983
-https://www.bilibili.com/ | 11454
-https://play.google.com/store | 11116
-https://www.yahoo.com/ | 6449
-https://www.sina.com.cn/ | 4858
-https://juejin.im/ | 3853
-https://www.csdn.net/ | 3368
-https://www.amazon.com/ | 3041
-https://www.google.com/search?q=hello | 2691
-https://www.oschina.net/ | 1987
+https://www.youtube.com/ | 21938
+https://www.bilibili.com/ | 11551
+https://play.google.com/store | 11101
+https://www.yahoo.com/ | 6592
+https://www.sina.com.cn/ | 4856
+https://www.csdn.net/ | 3334
+https://juejin.im/ | 3168
+https://www.amazon.com/ | 3108
+https://www.google.com/search?q=hello | 2454
+https://www.oschina.net/ | 1989
+https://www.toutiao.com/ | 1648
 https://github.com/ | 1388
-https://cn.bing.com/search?q=hello | 1252
+https://cn.bing.com/search?q=hello | 1271
 https://www.douban.com/ | 1230
 https://stackoverflow.com/ | 1164
-https://en.wikipedia.org/wiki/Main_Page | 1020
-https://www.baidu.com/s?ie=UTF-8&wd=hello | 982
-https://www.cnblogs.com/ | 940
-https://segmentfault.com/ | 665
+https://www.baidu.com/s?ie=UTF-8&wd=hello | 995
+https://en.wikipedia.org/wiki/Main_Page | 985
+https://www.cnblogs.com/ | 941
+https://segmentfault.com/ | 653
+https://www.jianshu.com/ | 517
 https://www.netflix.com/jp-en/ | 516
-https://www.jianshu.com/ | 512
-https://www.toutiao.com/ | 329
-https://www.baidu.com | 313
-https://www.facebook.com/ | 268
+https://www.baidu.com | 318
+https://www.facebook.com/ | 271
 http://daily.zhihu.com/ | 256
-https://cn.bing.com | 217
+https://cn.bing.com | 240
 https://twitter.com/ | 193
-https://www.google.com | 182
+https://www.google.com | 187
 https://pwa.clicli.me/ | -1
