@@ -26,7 +26,10 @@ const URL_LIST = [
   "https://www.yahoo.com/",
   "http://daily.zhihu.com/",
   "https://www.sina.com.cn/",
-  "https://www.toutiao.com/"
+  "https://www.toutiao.com/",
+  "https://pornhub.com/",
+  "https://my.oschina.net/ahaoboy",
+  "https://www.reddit.com/",
 ]
 
 module.exports = URL_LIST
