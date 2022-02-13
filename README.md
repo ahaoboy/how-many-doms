@@ -1,31 +1,31 @@
 # how-many-doms
 
-# update 2/12/2022, 4:15:45 AM
+# update 2/13/2022, 4:15:44 AM
 
 url | dom nums
 :-: | :-:
-https://www.youtube.com/ | 26212
-https://www.bilibili.com/ | 17287
-https://play.google.com/store | 10580
-https://www.yahoo.com/ | 6534
-https://yahoo.com/ | 6534
-https://www.reddit.com/ | 6235
-https://www.sina.com.cn/ | 4805
-https://www.amazon.com/ | 3750
-https://www.csdn.net/ | 3386
-https://pornhub.com/ | 3123
-https://juejin.im/ | 2911
-https://juejin.cn/ | 2911
-https://my.oschina.net/ahaoboy | 2832
+https://www.youtube.com/ | 25482
+https://www.bilibili.com/ | 17261
+https://play.google.com/store | 10674
+https://yahoo.com/ | 6827
+https://www.yahoo.com/ | 6533
+https://www.reddit.com/ | 6470
+https://www.sina.com.cn/ | 4666
+https://www.csdn.net/ | 3385
+https://www.amazon.com/ | 3209
+https://pornhub.com/ | 3130
+https://juejin.im/ | 2879
+https://juejin.cn/ | 2878
+https://my.oschina.net/ahaoboy | 2833
 https://www.oschina.net/ | 1970
-https://www.google.com/search?q=hello | 1914
-https://github.com/ | 1479
-https://www.douban.com/ | 1379
-https://cn.bing.com/search?q=hello | 1262
-https://www.baidu.com/s?ie=UTF-8&wd=hello | 1172
-https://www.toutiao.com/ | 1162
-https://en.wikipedia.org/wiki/Main_Page | 1114
-https://www.cnblogs.com/ | 1111
+https://www.google.com/search?q=hello | 1864
+https://cn.bing.com/search?q=hello | 1641
+https://github.com/ | 1476
+https://www.douban.com/ | 1373
+https://www.baidu.com/s?ie=UTF-8&wd=hello | 1205
+https://www.toutiao.com/ | 1160
+https://www.cnblogs.com/ | 1119
+https://en.wikipedia.org/wiki/Main_Page | 1106
 https://stackoverflow.com/ | 978
 https://www.jianshu.com/ | 694
 https://segmentfault.com/ | 566
