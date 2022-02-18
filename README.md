@@ -1,39 +1,39 @@
 # how-many-doms
 
-# update 2/17/2022, 4:15:40 AM
+# update 2/18/2022, 4:17:11 AM
 
 url | dom nums
 :-: | :-:
-https://www.youtube.com/ | 25854
-https://www.bilibili.com/ | 17218
-https://play.google.com/store | 10634
-https://yahoo.com/ | 6414
-https://www.yahoo.com/ | 5848
-https://www.sina.com.cn/ | 4782
-https://www.amazon.com/ | 3895
-https://pornhub.com/ | 3099
-https://juejin.cn/ | 2959
-https://juejin.im/ | 2952
-https://my.oschina.net/ahaoboy | 2830
-https://www.csdn.net/ | 2706
-https://www.reddit.com/ | 2219
-https://www.google.com/search?q=hello | 2172
-https://www.oschina.net/ | 1989
-https://cn.bing.com/search?q=hello | 1493
-https://github.com/ | 1487
+https://www.youtube.com/ | 24455
+https://www.bilibili.com/ | 17252
+https://play.google.com/store | 10593
+https://www.yahoo.com/ | 6456
+https://www.reddit.com/ | 6098
+https://yahoo.com/ | 5998
+https://www.sina.com.cn/ | 4779
+https://www.amazon.com/ | 3298
+https://pornhub.com/ | 3087
+https://juejin.im/ | 2957
+https://juejin.cn/ | 2957
+https://my.oschina.net/ahaoboy | 2831
+https://www.csdn.net/ | 2715
+https://www.google.com/search?q=hello | 2178
+https://www.oschina.net/ | 1982
+https://github.com/ | 1491
+https://cn.bing.com/search?q=hello | 1465
 https://www.douban.com/ | 1389
-https://www.toutiao.com/ | 1143
-https://www.baidu.com/s?ie=UTF-8&wd=hello | 1120
-https://en.wikipedia.org/wiki/Main_Page | 1119
-https://www.cnblogs.com/ | 1113
-https://stackoverflow.com/ | 978
+https://www.toutiao.com/ | 1232
+https://www.baidu.com/s?ie=UTF-8&wd=hello | 1154
+https://en.wikipedia.org/wiki/Main_Page | 1144
+https://www.cnblogs.com/ | 1112
+https://stackoverflow.com/ | 973
 https://www.jianshu.com/ | 703
 https://segmentfault.com/ | 555
 https://www.netflix.com/jp-en/ | 516
-https://www.baidu.com | 321
+https://www.baidu.com | 331
 https://cn.bing.com | 290
-https://www.facebook.com/ | 255
+https://www.facebook.com/ | 259
 http://daily.zhihu.com/ | 243
 https://twitter.com/ | 242
-https://www.google.com | 200
+https://www.google.com | 241
 https://pwa.clicli.me/ | -1
