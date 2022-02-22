@@ -1,39 +1,39 @@
 # how-many-doms
 
-# update 2/21/2022, 4:20:39 AM
+# update 2/22/2022, 4:17:07 AM
 
 url | dom nums
 :-: | :-:
-https://www.youtube.com/ | 25962
-https://www.bilibili.com/ | 17217
-https://play.google.com/store | 10558
-https://yahoo.com/ | 6785
-https://www.yahoo.com/ | 6175
-https://www.reddit.com/ | 6102
-https://www.csdn.net/ | 3383
-https://www.amazon.com/ | 3235
-https://pornhub.com/ | 3113
-https://juejin.cn/ | 2998
-https://juejin.im/ | 2996
-https://my.oschina.net/ahaoboy | 2827
-https://www.google.com/search?q=hello | 2188
-https://www.oschina.net/ | 1978
-https://cn.bing.com/search?q=hello | 1528
+https://www.youtube.com/ | 24803
+https://www.bilibili.com/ | 17220
+https://play.google.com/store | 10462
+https://yahoo.com/ | 6581
+https://www.yahoo.com/ | 6491
+https://www.reddit.com/ | 6297
+https://www.sina.com.cn/ | 4765
+https://www.amazon.com/ | 3830
+https://www.csdn.net/ | 3400
+https://pornhub.com/ | 3115
+https://juejin.im/ | 3015
+https://juejin.cn/ | 3015
+https://my.oschina.net/ahaoboy | 2828
+https://www.google.com/search?q=hello | 2199
+https://www.oschina.net/ | 1983
 https://github.com/ | 1491
-https://www.douban.com/ | 1384
-https://www.toutiao.com/ | 1243
-https://en.wikipedia.org/wiki/Main_Page | 1164
-https://www.baidu.com/s?ie=UTF-8&wd=hello | 1154
-https://www.cnblogs.com/ | 1115
+https://www.douban.com/ | 1360
+https://cn.bing.com/search?q=hello | 1156
+https://www.baidu.com/s?ie=UTF-8&wd=hello | 1153
+https://www.toutiao.com/ | 1153
+https://www.cnblogs.com/ | 1117
+https://en.wikipedia.org/wiki/Main_Page | 1099
 https://stackoverflow.com/ | 973
-https://www.jianshu.com/ | 715
+https://www.jianshu.com/ | 696
 https://segmentfault.com/ | 575
 https://www.netflix.com/jp-en/ | 516
-https://www.baidu.com | 315
-https://cn.bing.com | 290
-https://www.facebook.com/ | 257
+https://www.baidu.com | 314
+https://cn.bing.com | 310
+https://www.facebook.com/ | 255
 http://daily.zhihu.com/ | 243
-https://twitter.com/ | 237
-https://www.google.com | 200
+https://twitter.com/ | 242
+https://www.google.com | 225
 https://pwa.clicli.me/ | -1
-https://www.sina.com.cn/ | -1
