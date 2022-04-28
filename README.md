@@ -1,39 +1,39 @@
 # how-many-doms
 
-# update 4/27/2022, 4:41:25 AM
+# update 4/28/2022, 5:06:57 AM
 
 url | dom nums
 :-: | :-:
-https://www.youtube.com/ | 26663
-https://www.bilibili.com/ | 17431
-https://play.google.com/store | 9150
-https://www.reddit.com/ | 7108
-https://yahoo.com/ | 6781
-https://www.yahoo.com/ | 6182
-https://www.sina.com.cn/ | 4481
-https://www.amazon.com/ | 3207
-https://www.csdn.net/ | 3074
-https://pornhub.com/ | 3051
-https://my.oschina.net/ahaoboy | 2366
-https://www.google.com/search?q=hello | 2147
-https://www.oschina.net/ | 1995
-https://juejin.im/ | 1704
-https://juejin.cn/ | 1643
-https://github.com/ | 1384
-https://www.douban.com/ | 1383
-https://cn.bing.com/search?q=hello | 1328
-https://www.toutiao.com/ | 1157
-https://en.wikipedia.org/wiki/Main_Page | 1136
-https://www.cnblogs.com/ | 1113
-https://www.baidu.com/s?ie=UTF-8&wd=hello | 1109
+https://www.youtube.com/ | 25462
+https://www.bilibili.com/ | 17329
+https://play.google.com/store | 9158
+https://www.yahoo.com/ | 6248
+https://yahoo.com/ | 5817
+https://www.reddit.com/ | 5632
+https://www.sina.com.cn/ | 4459
+https://www.amazon.com/ | 3139
+https://pornhub.com/ | 3072
+https://my.oschina.net/ahaoboy | 2836
+https://www.csdn.net/ | 2607
+https://juejin.cn/ | 2253
+https://juejin.im/ | 2216
+https://www.google.com/search?q=hello | 2172
+https://www.oschina.net/ | 1977
+https://cn.bing.com/search?q=hello | 1399
+https://www.douban.com/ | 1390
+https://github.com/ | 1385
+https://www.toutiao.com/ | 1241
+https://www.cnblogs.com/ | 1117
+https://en.wikipedia.org/wiki/Main_Page | 1100
+https://www.baidu.com/s?ie=UTF-8&wd=hello | 1095
 https://stackoverflow.com/ | 950
 https://segmentfault.com/ | 635
-https://www.netflix.com/jp-en/ | 515
-https://www.baidu.com | 331
+https://www.netflix.com/jp-en/ | 516
+https://www.baidu.com | 327
 https://cn.bing.com | 301
-https://www.facebook.com/ | 251
+https://www.facebook.com/ | 255
 https://twitter.com/ | 243
 http://daily.zhihu.com/ | 243
-https://www.google.com | 223
+https://www.google.com | 221
 https://www.jianshu.com/ | 21
 https://pwa.clicli.me/ | -1
