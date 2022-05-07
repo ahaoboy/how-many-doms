@@ -1,39 +1,39 @@
 # how-many-doms
 
-# update 5/6/2022, 4:27:37 AM
+# update 5/7/2022, 4:19:38 AM
 
 url | dom nums
 :-: | :-:
-https://www.youtube.com/ | 25771
-https://www.bilibili.com/ | 17318
-https://play.google.com/store | 9080
-https://yahoo.com/ | 6356
-https://www.reddit.com/ | 6321
+https://www.youtube.com/ | 25741
+https://www.bilibili.com/ | 17376
+https://play.google.com/store | 9106
+https://yahoo.com/ | 6654
+https://www.reddit.com/ | 6427
+https://www.yahoo.com/ | 5853
+https://www.sina.com.cn/ | 4541
+https://www.amazon.com/ | 3092
 https://pornhub.com/ | 3065
-https://www.amazon.com/ | 3047
-https://my.oschina.net/ahaoboy | 2840
-https://www.csdn.net/ | 2641
-https://www.google.com/search?q=hello | 2201
-https://juejin.im/ | 2093
-https://juejin.cn/ | 2091
-https://www.oschina.net/ | 1994
-https://www.douban.com/ | 1389
+https://my.oschina.net/ahaoboy | 2841
+https://juejin.cn/ | 2739
+https://www.csdn.net/ | 2640
+https://www.google.com/search?q=hello | 2194
+https://juejin.im/ | 2126
+https://www.oschina.net/ | 1993
 https://github.com/ | 1385
-https://www.toutiao.com/ | 1333
-https://en.wikipedia.org/wiki/Main_Page | 1135
-https://www.cnblogs.com/ | 1109
-https://www.baidu.com/s?ie=UTF-8&wd=hello | 1089
-https://cn.bing.com/search?q=hello | 1048
-https://stackoverflow.com/ | 949
-https://segmentfault.com/ | 640
+https://www.douban.com/ | 1383
+https://www.toutiao.com/ | 1166
+https://www.baidu.com/s?ie=UTF-8&wd=hello | 1115
+https://www.cnblogs.com/ | 1111
+https://en.wikipedia.org/wiki/Main_Page | 1096
+https://cn.bing.com/search?q=hello | 1082
+https://stackoverflow.com/ | 950
+https://segmentfault.com/ | 653
 https://www.netflix.com/jp-en/ | 516
-https://www.baidu.com | 328
 https://cn.bing.com | 301
-https://www.facebook.com/ | 252
+https://www.facebook.com/ | 255
 https://twitter.com/ | 243
 http://daily.zhihu.com/ | 243
-https://www.google.com | 216
+https://www.google.com | 222
 https://www.jianshu.com/ | 21
+https://www.baidu.com | 6
 https://pwa.clicli.me/ | -1
-https://www.yahoo.com/ | -1
-https://www.sina.com.cn/ | -1
